@@ -1,3 +1,5 @@
+![.vimrc](https://i.imgur.com/VboV6Fb.png)
+
 # My personal Vim config
 
 - Adapted for coding with Go.

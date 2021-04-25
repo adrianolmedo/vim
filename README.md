@@ -21,4 +21,4 @@
 :CocInstall coc-go coc-json coc-tsserver
 ```
 
-Close and open again.
+3. Close and open again.

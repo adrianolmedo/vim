@@ -3,6 +3,9 @@
 - Adapted for coding with Go.
 - Theme: ColorPaper.
 - Airline theme: simple.
+- Press `gd` for go to definition.
+- Press `gr` for references.
+- Ctrl+Shif+e for open NERDtree.
 
 ## Install
 

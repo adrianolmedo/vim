@@ -20,3 +20,5 @@
 :PlugInstall
 :CocInstall coc-go coc-json coc-tsserver
 ```
+
+Close and open again.

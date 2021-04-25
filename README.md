@@ -14,7 +14,7 @@
 
 1. Get the .vimrc file in ~/ and then run `$ vim .vimrc`.
 
-2. Run inside vim:
+2. Run inside Vim:
 
 ```
 :PlugInstall

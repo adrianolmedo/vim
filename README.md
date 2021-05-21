@@ -1,4 +1,4 @@
-# My personal Vim config
+# My Vim config
 
 ![.vimrc](https://i.imgur.com/VboV6Fb.png)
 

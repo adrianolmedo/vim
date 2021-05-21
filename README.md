@@ -14,7 +14,11 @@
 
 ## Install
 
-1. Get the .vimrc file in ~/ and then run `$ vim .vimrc`.
+1. Get the `.vimrc` file in `~/` and then run:
+
+```bash
+$ vim .vimrc
+```
 
 2. Run inside Vim:
 

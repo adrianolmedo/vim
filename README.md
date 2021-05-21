@@ -4,7 +4,7 @@
 
 ## Features
 
-- Adapted for coding with Go.
+- Coding with Go.
 - Theme: ColorPaper.
 - Airline theme: simple.
 - Press `gd` for go to definition.

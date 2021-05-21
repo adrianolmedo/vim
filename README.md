@@ -1,6 +1,8 @@
+# My personal Vim config
+
 ![.vimrc](https://i.imgur.com/VboV6Fb.png)
 
-# My personal Vim config
+## Features
 
 - Adapted for coding with Go.
 - Theme: ColorPaper.

@@ -28,7 +28,7 @@ syntax enable
 
 " Theme config
 set background=dark
-"colorscheme dracula
+colorscheme dracula
 "colorscheme PaperColor
 
 " Other Configurations

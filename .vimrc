@@ -2,6 +2,7 @@ set nocompatible
 
 call plug#begin('~/.vim/plugged')
 
+Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'NLKNguyen/papercolor-theme'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
@@ -27,7 +28,8 @@ syntax enable
 
 " Theme config
 set background=dark
-colorscheme PaperColor
+"colorscheme dracula
+"colorscheme PaperColor
 
 " Other Configurations
 filetype plugin indent on
@@ -37,6 +39,7 @@ set incsearch ignorecase smartcase hlsearch
 set fillchars+=vert:\ 
 set wrap breakindent
 set title
+nnoremap a i
 
 " Airline config
 let g:airline#extensions#tabline#enabled = 1

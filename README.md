@@ -5,7 +5,7 @@
 ## Features
 
 - Coding with Go.
-- Theme: ColorPaper.
+- Theme: Dracula.
 - Airline theme: simple.
 - Press `gd` for go to definition.
 - Press `gr` for references.

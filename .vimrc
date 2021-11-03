@@ -39,7 +39,7 @@ set incsearch ignorecase smartcase hlsearch
 set fillchars+=vert:\ 
 set wrap breakindent
 set title
-nnoremap a i
+"nnoremap a i
 
 " Airline config
 let g:airline#extensions#tabline#enabled = 1

@@ -24,7 +24,7 @@ $ vim .vimrc
 
 ```
 :PlugInstall
-:CocInstall coc-go coc-json coc-tsserver
+:CocInstall coc-go coc-json coc-tsserver @yaegassy/coc-intelephense
 ```
 
 3. Close and open again.

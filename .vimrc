@@ -30,6 +30,7 @@ syntax enable
 set background=dark
 colorscheme dracula
 "colorscheme PaperColor
+highlight Normal ctermfg=white ctermbg=black
 
 " Other Configurations
 filetype plugin indent on

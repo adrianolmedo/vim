@@ -27,9 +27,9 @@ set encoding=UTF-8
 syntax enable
 
 " Theme config
-set background=dark
-colorscheme dracula
 "colorscheme PaperColor
+colorscheme dracula
+set background=dark
 highlight Normal ctermfg=white ctermbg=black
 
 " Other Configurations

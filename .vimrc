@@ -28,10 +28,10 @@ syntax enable
 
 " Theme config
 set t_Co=256
-"colorscheme PaperColor
-colorscheme dracula
-set background=dark
-highlight Normal ctermfg=white ctermbg=black
+colorscheme PaperColor
+"colorscheme dracula
+"set background=dark
+"highlight Normal ctermfg=white ctermbg=black
 
 " Other Configurations
 filetype plugin indent on

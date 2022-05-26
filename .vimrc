@@ -27,6 +27,7 @@ set encoding=UTF-8
 syntax enable
 
 " Theme config
+set t_Co=256
 "colorscheme PaperColor
 colorscheme dracula
 set background=dark

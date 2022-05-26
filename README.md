@@ -5,7 +5,8 @@
 ## Features
 
 - Coding with Go.
-- Theme: Dracula.
+- Themes: PaperColor (default), Dracula.
+- Support for tmux.
 - Airline theme: simple.
 - Press `gd` for go to definition.
 - Press `gr` for references.

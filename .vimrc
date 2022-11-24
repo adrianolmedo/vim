@@ -60,7 +60,7 @@ let g:NERDTreeDirArrowCollapsible = '↡'
 "let NERDTreeQuitOnOpen=1 // close NERDTree after open file.
 nnoremap <Tab> :bnext<CR>
 nnoremap <S-Tab> :bprev<CR>
-nmap <silent> <C-S-e> :NERDTreeToggle<CR>
+nnoremap <C-p> :NERDTreeToggle<CR>
     
 " Full config coc.vim
 " TextEdit might fail if hidden is not set.

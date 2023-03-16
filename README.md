@@ -5,20 +5,14 @@
 
 ## Install
 
-1. Put `.vimrc` file in `~/` and then run:
-
-```bash
-$ vim .vimrc
-```
-
-2. Run inside Vim:
+1. Run inside Vim:
 
 ```
 :PlugInstall
 :CocInstall coc-go coc-json coc-tsserver @yaegassy/coc-intelephense
 ```
 
-3. Close and open again.
+2. Close and open again.
 
 ## Features
 

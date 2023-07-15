@@ -43,6 +43,9 @@ set wrap breakindent
 set title
 "nnoremap a i
 
+" Pass to the clipboard when copy with y
+vnoremap y "+y
+
 " Move lines
 nnoremap <S-Up> :m-2<CR>
 nnoremap <S-Down> :m+<CR>

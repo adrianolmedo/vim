@@ -44,7 +44,7 @@ set title
 "nnoremap a i
 
 " Pass to the clipboard when copy with y
-vnoremap y "+y
+vnoremap <C-c> "+y
 
 " Move lines
 nnoremap <S-Up> :m-2<CR>

@@ -43,7 +43,10 @@ set wrap breakindent
 set title
 "nnoremap a i
 
-" Pass to the clipboard when copy with y
+" Map Ctrl+a to save the file
+nnoremap <C-a> :w<CR>
+
+" Pass to the clipboard when copy with Ctrl+c
 vnoremap <C-c> "+y
 
 " Move lines
